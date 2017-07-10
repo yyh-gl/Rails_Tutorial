@@ -22,7 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * Git
+
   - Git Flow
-  	-- master
-	-- develop
+  
+    -- master
+
+  	-- develop
+
 	-- feature
