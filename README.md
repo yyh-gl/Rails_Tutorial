@@ -1,6 +1,5 @@
 # Repository for studying Ruby on Rails
 
-Updating from time to time ...
 
 Things you may want to cover:
 
